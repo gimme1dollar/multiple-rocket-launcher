@@ -13,9 +13,9 @@ Multiple Rocket Launching Robot
 ![body](./image/engine.png)
 
 ## Specification
-- FDM 3D printed  Solid rocket engine 
+- FDM 3D printed solid rocket engine 
 - Launch 6 rockets
-- 
+- Ignite electrically
 - P-control algorithm
 
 ## Test
