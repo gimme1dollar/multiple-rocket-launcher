@@ -1,0 +1,6 @@
+.DS_Store
+
+./hardware/*/*.sldprt
+./hardware/*/*.sldasm
+./hardware/*/*.swb
+./image/2018*
