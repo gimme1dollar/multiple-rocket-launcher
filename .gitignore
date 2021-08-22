@@ -1,6 +1,29 @@
 .DS_Store
 
-./hardware/*/*.sldprt
-./hardware/*/*.sldasm
-./hardware/*/*.swb
-./image/2018*
+.etc/
+
+# hardware
+hardware/*/*.txt
+hardware/*/*.pdf
+*.zip
+*.sldprt
+*.SLDDRW
+*.sldasm
+*.swb
+*.ipt
+*.iam
+*.stl
+*.hfb
+*.hvs
+
+# software
+[Dd]ebug/
+[Rr]elease/
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
+*.srec
+*.atsuo
