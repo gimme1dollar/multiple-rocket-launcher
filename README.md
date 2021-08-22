@@ -6,7 +6,7 @@ Multiple Rocket Launching Robot
 - FDM 3D printed solid rocket engine 
 - Launch 6 rockets
 - Motor control: P-control algorithm with absolute-encoder
-- Vibration dampling with rigid couplings
+- Vibration damping with rigid couplings
 - Communication: RS485 module
 - Ignite electrically
 
